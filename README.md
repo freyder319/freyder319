@@ -34,7 +34,9 @@ _Un proyecto en desarrollo para la gestión administrativa. ¡Síguelo para ver 
 
 - Python for Data Science, AI & Development  
 - Microsoft Full-Stack Developer Professional Certificate *(en desarrollo)*
-
+- Construccion de Bases de Datos con Mysql
+- Metodologia de la Programacion de Sistemas Informaticos
+- Aplicacion del Marco de Trabajo Scrum para Proyectos de Desarrollo de Software
 ---
 
 ## 📫 Conéctate conmigo
