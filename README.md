@@ -33,7 +33,7 @@ _Un proyecto en desarrollo para la gestión administrativa. ¡Síguelo para ver 
 ## 🏅 Insignias & Certificaciones
 
 - Python for Data Science, AI & Development  
-- Microsoft Full-Stack Developer Professional Certificate *(en desarrollo)*
+- Microsoft Full-Stack Developer Professional Certificate
 - Construccion de Bases de Datos con Mysql
 - Metodologia de la Programacion de Sistemas Informaticos
 - Aplicacion del Marco de Trabajo Scrum para Proyectos de Desarrollo de Software
